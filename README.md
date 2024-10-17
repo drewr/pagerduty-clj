@@ -1,4 +1,4 @@
-# Scratch Clojure PagerDuty Client
+# Clojure <> PagerDuty
 
 Very much a simple start as I was trying to navigate the incidents and
 schedules for my organization and didn't find any prior art here.
