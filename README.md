@@ -10,7 +10,9 @@ for me, so that would be a helpful addition.
 ## Usage
 
 1. Create an API token in the "User Settings" tab in your profile.
-2. Plug that into the `tok` argument to the primary functions.
+2. In a repl, `(def my-pd "<TOKEN FROM STEP 1>")`
+2. Plug that into the `tok` argument to the primary functions, eg
+   `(pagerduty.core/schedules my-pd)`.
 
 ## License
 
